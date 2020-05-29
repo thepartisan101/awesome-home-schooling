@@ -26,3 +26,4 @@ A curated list of awesome home-schooling initiatives, books, guides, people to f
 - [ ] Find collaborators
 - [ ] Add short descriptions to each resource
 - [ ] Add tags to classify by skill (e.g "Reading") and level (e.g "K-12")
+- [ ] Make website connected to Google form to collect and create a local info directory?
