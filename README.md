@@ -20,7 +20,6 @@ A curated list of awesome home-schooling initiatives, books, guides, people to f
 - [Prenda](www.prendaschool.com) In-home microschools led by inspiring mentors.
 7. **Startups**
 8. **Online private tutors**
-9. **Blogs**
 
 ## To Do:
 - [ ] Find collaborators
